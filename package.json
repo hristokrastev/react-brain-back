@@ -1,6 +1,6 @@
 {
   "name": "node",
-  "version": "10.13.0",
+  "version": "10.15.0",
   "main": "script.js",
   "scripts": {
     "start": "nodemon server.js"
